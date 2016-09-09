@@ -1,4 +1,4 @@
-public class ASCII
+public class ASCII2
 	{
 	public static void main(String[]args)
 		{
